@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sun 25 Jun 2017 02:27:56 PM PDT
+
+BeginCmp
+TimeStamp = /59500EF0;
+Reference = E1;
+ValeurCmp = ELETRODE;
+IdModule  = ELECTRODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /595009A1;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+EndListe
